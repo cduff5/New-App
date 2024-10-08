@@ -1,2 +1,1 @@
-# my-monthly
-Menstrual Period Tracker
+Blueprint 
